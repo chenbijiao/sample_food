@@ -24,7 +24,7 @@ chaincode 由@[DevilExileSu](https://github.com/DevilExileSu)所编写
 
 Step 1:
   ```shell
-  git clone https://github.com/zhazhalaila/hyperledger-simple-app.git
+  git clone 
   ```
  
 进入source-app目录下
